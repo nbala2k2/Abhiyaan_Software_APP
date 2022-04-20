@@ -19,6 +19,7 @@
             2. Working in Kaatru - Under Prof Regunathan Rengaswamy
                       * Deals with deriving insights of Hyper-Local Air Quality using info collected by IOT sensors
                       * Working on sampling (upsampling and downsampling) spatio-temporal weather data .
+                      * Working on creating a down-sampling package
 
 
 
