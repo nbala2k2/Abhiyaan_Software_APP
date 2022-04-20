@@ -45,12 +45,10 @@
 ---
 
       (IN COURSERA)
-    
           1. Intro to tensorflow for AI ML DL 
           2. Convolutional Nueral networks
           3. NLP in tensorflow 
-      (UDEMY)
-    
+      (UDEMY)    
             1. SQL
             2. Interactive python Dashboard using Plotly
 
